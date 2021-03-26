@@ -16,11 +16,14 @@
 
 ## 网站
 
-go语言中文网
+- go语言中文网
 
-gocn
+- gocn
 
-掘金 go
+- infoQ
+
+- 掘金 go
+
 
 
 
